@@ -1,7 +1,7 @@
 {
 	"id": "web-view",
 	"name": "Web View",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"minAppVersion": "1.4.0",
 	"description": "Opens HTTP/HTTPS links as web pages in new tabs using an embedded browser.",
 	"author": "serhat-can",
