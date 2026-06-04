@@ -3,7 +3,7 @@
 	"name": "Web View",
 	"version": "1.0.0",
 	"minAppVersion": "1.4.0",
-	"description": "Opens HTTP/HTTPS links inside Obsidian as web pages in new tabs using an embedded browser.",
+	"description": "Opens HTTP/HTTPS links as web pages in new tabs using an embedded browser.",
 	"author": "serhat-can",
 	"isDesktopOnly": true
 }
