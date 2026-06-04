@@ -1,6 +1,6 @@
 {
-	"id": "web-view",
-	"name": "Web View",
+	"id": "obsidian-web-view",
+	"name": "Obsidian Web View",
 	"version": "1.0.0",
 	"minAppVersion": "1.4.0",
 	"description": "Opens HTTP/HTTPS links inside Obsidian as web pages in new tabs using an embedded browser.",

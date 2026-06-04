@@ -184,7 +184,7 @@ class WebView extends ItemView {
         });
 
         this.wv.addEventListener('new-window', (e) => {
-            const plugin = this.app.plugins.getPlugin('web-view');
+            const plugin = this.app.plugins.getPlugin('obsidian-web-view');
             if (plugin) plugin.openUrl(e.url);
         });
     }
